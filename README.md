@@ -4,7 +4,7 @@
 
 List of Unity shaders that are useful for your projects as well as for learning purposes.
 - Shaders are created with Shader graph
-- Supports URP (HDRP support will be added soon)
+- Supports URP
 - Unity Version used 2022.3 LTS
 
 
@@ -14,6 +14,7 @@ List of Unity shaders that are useful for your projects as well as for learning 
 - Highlight
 - Vertex Animation
 - Camera Distance Mask
+- Normal Blend
 
 
 
