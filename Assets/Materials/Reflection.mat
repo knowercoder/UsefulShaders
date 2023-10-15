@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6252851566178095000
+--- !u!114 &-8013441658044702084
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: NormalBlend
-  m_Shader: {fileID: -6465566751694194690, guid: 73a8e8876c2cd9d4ca9a2df83a6aed9d, type: 3}
+  m_Name: Reflection
+  m_Shader: {fileID: -6465566751694194690, guid: c45f3712027ad6042bf8c3b1b2ed2522, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -36,16 +36,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _SampleTexture2D_8c3d69879be5482a98037a6356ac3311_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: b8fda8c6053d7524fa9e3f94e67e1609, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_9cb557e603f94f6586988a0844617918_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: bad599f15d5126b47910c9d7d8357d8f, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_e542bc7d014e400089d5198fa96137c8_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: da30eab8c4449ad4ba00b179bd27218a, type: 3}
+    - _SampleCubemap_ee095a4bc71f4d97806f978dd6b3807f_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: de75117322b526b43bb288115e49a903, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:

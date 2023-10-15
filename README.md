@@ -15,6 +15,9 @@ List of Unity shaders that are useful for your projects as well as for learning 
 - Vertex Animation
 - Camera Distance Mask
 - Normal Blend
+- Sizzling Dissolve
+- WindShake
+- Ripple
 
 
 
