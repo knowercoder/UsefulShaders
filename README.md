@@ -25,7 +25,8 @@ List of Unity shaders that are useful for your projects as well as for learning 
 ### Advanced Shaders
 
 - Interior Map
-
+  - ![Interior](https://github.com/knowercoder/UsefulShaders/blob/main/Media/Interiormap.gif)
+  - [Youtube tutorial](https://www.youtube.com/watch?v=Db0L79ngrVc&t=553s)
 
 
 ## References
