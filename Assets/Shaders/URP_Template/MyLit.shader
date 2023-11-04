@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-Shader "NedMakesGames/MyLit" {
+Shader "Custom/MyLit" {
     Properties {
         [Header(Surface options)]
         [MainTexture] _ColorMap("Color", 2D) = "white" {}
