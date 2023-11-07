@@ -22,6 +22,10 @@ List of Unity shaders that are useful for your projects as well as for learning 
 - Ripple
 - Triplanar Projection
 
+### Advanced Shaders
+
+- Toon
+
 ### Post processing - Fullscreen Shaders
 
 - Screen Warp
