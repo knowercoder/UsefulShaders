@@ -29,6 +29,7 @@ List of Unity shaders that are useful for your projects as well as for learning 
 ### Post processing - Fullscreen Shaders
 
 - Screen Warp
+- Toon Outline
 
 
 ## References
