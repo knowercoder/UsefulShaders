@@ -13,24 +13,27 @@ List of Unity shaders that are useful for your projects as well as for learning 
 
 ### Primitive Shaders
 
-- Highlight
-- Vertex Animation
-- Camera Distance Mask
-- Normal Blend
-- Sizzling Dissolve
-- WindShake
-- Ripple
-- Triplanar Projection
+Highlight |  Vertex Animation | Camera Distance Mask
+:-------------------------:|:-------------------------:|:------------------------:
+<img src="/_media/Higlight.jpg" width="270">  |  <img src="/_media/VertexAnimation.gif" width="270"> | <img src="/_media/CameraDistanceMask.gif" width="270">
+Normal Blend |  Sizzling Dissolve | WindShake
+<img src="/_media/NormalBlend.jpg" width="270">  |  <img src="/_media/SizzlingDissolve.gif" width="270"> | <img src="/_media/WindShake.gif" width="270">
+Triplanar Projection |  Ripple | 
+<img src="/_media/TriplanarProjection.jpg" width="270">  |  <img src="/_media/Ripple.gif" width="270"> |
+
 
 ### Advanced Shaders
 
-- Toon
+| Toon |
+| :-------------------------: |
+| <img src="/_media/Toon.jpg" width="270"> |
+
 
 ### Post processing - Fullscreen Shaders
 
-- Screen Warp
-- Toon Outline
-
+| Screen Warp | Toon Outline |
+| :-------------------------: | :-------------------------: |
+| <img src="/_media/ScreenWarp.gif" width="270"> | <img src="/_media/ToonOutline_Postprocess.jpg" width="270"> |
 
 ## References
 
