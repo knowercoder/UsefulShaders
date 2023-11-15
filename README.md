@@ -31,6 +31,8 @@ Triplanar Projection |  Ripple |
 
 ### Post processing - Fullscreen Shaders
 
+To visualize the prost process effect, assign the shader material to 'Full screen pass render feature' in the URP renderer asset and enable it.
+
 | Screen Warp | Toon Outline |
 | :-------------------------: | :-------------------------: |
 | <img src="/_media/ScreenWarp.gif" width="270"> | <img src="/_media/ToonOutline_Postprocess.jpg" width="270"> |
