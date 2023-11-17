@@ -39,14 +39,7 @@ To visualize the prost process effect, assign the shader material to 'Full scree
 
 ## References
 
-Below are the references where I learnt about the shaders and shader graphs
-
-- [Alan Zucconi](https://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/)
-- [Shader Graph by learn.unity](https://learn.unity.com/tutorial/august-17-shader-graph#6238bbebedbc2a3716315515)
-- [Ben Cloward](https://www.youtube.com/@BenCloward/videos)
-- [Timothy Ned Atton](https://nedmakesgames.medium.com/writing-unity-urp-shaders-with-code-part-1-the-graphics-pipeline-and-you-798cbc941cea)
-- [Jettely VFX & Shaders](https://www.youtube.com/@Jettelly/videos)
-- [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
+[Here is a list of free resources](https://knowercoder.com/blog/best-free-resources-to-master-shader-programming-in-unity/) where I learnt about the shaders and shader graphs
 
 
 
