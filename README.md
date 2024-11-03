@@ -22,9 +22,9 @@ Triplanar Projection |  Ripple |
 
 ### Advanced Shaders
 
-| Toon |
-| :-------------------------: |
-| <img src="/_media/Toon.jpg" width="270"> |
+| Toon | Car Paint
+| :-------------------------: | :-------------------------:
+| <img src="/_media/Toon.jpg" width="270"> | <img src="/_media/CarPaint.JPG" width="270">
 
 
 ### Post processing - Fullscreen Shaders
@@ -38,6 +38,8 @@ To visualize the post-process effect, assign the shader material to the 'Full sc
 ## References
 
 [Here is a list of free resources](https://knowercoder.com/blog/best-free-resources-to-master-shader-programming-in-unity/) where I learnt about the shaders and shader graphs
+
+Give a &#11088; if you like this project!
 
 
 
