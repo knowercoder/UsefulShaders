@@ -2,7 +2,7 @@
 
 # Useful Shaders for Unity
 
-List of Unity shaders that are useful for your projects as well as for learning purposes. [Read here](https://knowercoder.com/blog/basic-shaders-unity/) to learn how each shader works.
+List of Unity shaders that are useful for your projects as well as for learning purposes.
 - Shaders are created with Shader graph
 - Supports URP
 - Unity Version used 2022.3 LTS
@@ -39,7 +39,8 @@ To visualize the post-process effect, assign the shader material to the 'Full sc
 
 [Here is a list of free resources](https://knowercoder.com/blog/best-free-resources-to-master-shader-programming-in-unity/) where I learnt about the shaders and shader graphs
 
-Give a &#11088; if you like this project!
+## Give me a Star
+Give a &#11088; if you like this project! It will encourage me to add more shader graphs to this project 😊
 
 
 
