@@ -17,8 +17,8 @@ I have linked the YouTube tutorial videos from which I learned these shaders. Mo
 <img src="/_media/Higlight.jpg" width="270">  |  <img src="/_media/VertexAnimation.gif" width="270"> | <img src="/_media/CameraDistanceMask.gif" width="270">
 [Normal Blend](https://www.youtube.com/watch?v=GKVBJ7aO1Mk) |  Sizzling Dissolve | [WindShake](https://www.youtube.com/watch?v=wTHKzjYBH7U&list=PL78XDi0TS4lEBWa2Hpzg2SRC5njCcKydl&index=16)
 <img src="/_media/NormalBlend.jpg" width="270">  |  <img src="/_media/SizzlingDissolve.gif" width="270"> | <img src="/_media/WindShake.gif" width="270">
-[Triplanar Projection](https://www.youtube.com/watch?v=sjpszGetM40) |  [Ripple](https://www.youtube.com/watch?v=IFyZNSyjyFA&list=PL78XDi0TS4lEBWa2Hpzg2SRC5njCcKydl&index=19) | 
-<img src="/_media/TriplanarProjection.jpg" width="270">  |  <img src="/_media/Ripple.gif" width="270"> |
+[Triplanar Projection](https://www.youtube.com/watch?v=sjpszGetM40) |  [Ripple](https://www.youtube.com/watch?v=IFyZNSyjyFA&list=PL78XDi0TS4lEBWa2Hpzg2SRC5njCcKydl&index=19) | [Animated Flag](https://www.youtube.com/watch?v=ZV2YrrKzs9c)
+<img src="/_media/TriplanarProjection.jpg" width="270">  |  <img src="/_media/Ripple.gif" width="270"> | <img src="/_media/Animatedflag.gif" width="270">
 
 
 ### Advanced Shaders
