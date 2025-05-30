@@ -10,7 +10,7 @@ List of Unity shaders that are useful for your projects as well as for learning 
 I have linked the YouTube tutorial videos from which I learned these shaders. Most of the videos are from [Ben Cloward's](https://www.youtube.com/@BenCloward) YouTube channel. Click on the titles in the table below to go to the tutorial.
 ## Shaders List
 
-### Primitive Shaders
+### Basic Shaders
 
 [Highlight](https://www.youtube.com/watch?app=desktop&v=sw8j0xCr9kQ) |  [Vertex Animation](https://www.youtube.com/watch?v=ZEXVQgbWxQY) | [Camera Distance Mask](https://www.youtube.com/watch?v=lrc-j7ub28U)
 :-------------------------:|:-------------------------:|:------------------------:
