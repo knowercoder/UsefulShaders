@@ -10,15 +10,15 @@ List of Unity shaders that are useful for your projects as well as for learning 
 I have linked the YouTube tutorial videos from which I learned these shaders. Most of the videos are from [Ben Cloward's](https://www.youtube.com/@BenCloward) YouTube channel. Click on the titles in the table below to go to the tutorial.
 ## Shaders List
 
-### Primitive Shaders
+### Basic Shaders
 
 [Highlight](https://www.youtube.com/watch?app=desktop&v=sw8j0xCr9kQ) |  [Vertex Animation](https://www.youtube.com/watch?v=ZEXVQgbWxQY) | [Camera Distance Mask](https://www.youtube.com/watch?v=lrc-j7ub28U)
 :-------------------------:|:-------------------------:|:------------------------:
 <img src="/_media/Higlight.jpg" width="270">  |  <img src="/_media/VertexAnimation.gif" width="270"> | <img src="/_media/CameraDistanceMask.gif" width="270">
 [Normal Blend](https://www.youtube.com/watch?v=GKVBJ7aO1Mk) |  Sizzling Dissolve | [WindShake](https://www.youtube.com/watch?v=wTHKzjYBH7U&list=PL78XDi0TS4lEBWa2Hpzg2SRC5njCcKydl&index=16)
 <img src="/_media/NormalBlend.jpg" width="270">  |  <img src="/_media/SizzlingDissolve.gif" width="270"> | <img src="/_media/WindShake.gif" width="270">
-[Triplanar Projection](https://www.youtube.com/watch?v=sjpszGetM40) |  [Ripple](https://www.youtube.com/watch?v=IFyZNSyjyFA&list=PL78XDi0TS4lEBWa2Hpzg2SRC5njCcKydl&index=19) | 
-<img src="/_media/TriplanarProjection.jpg" width="270">  |  <img src="/_media/Ripple.gif" width="270"> |
+[Triplanar Projection](https://www.youtube.com/watch?v=sjpszGetM40) |  [Ripple](https://www.youtube.com/watch?v=IFyZNSyjyFA&list=PL78XDi0TS4lEBWa2Hpzg2SRC5njCcKydl&index=19) | [Animated Flag](https://www.youtube.com/watch?v=ZV2YrrKzs9c)
+<img src="/_media/TriplanarProjection.jpg" width="270">  |  <img src="/_media/Ripple.gif" width="270"> | <img src="/_media/Animatedflag.gif" width="270">
 
 
 ### Advanced Shaders
